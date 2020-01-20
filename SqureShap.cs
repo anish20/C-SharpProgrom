@@ -2,7 +2,7 @@
 //P-1 Write a program and print 5 rows and 5 columns sape as squre
 
 class SqureShape{
-public static void Main(String[] args){
+public static void Main(){
 int row,col=5;
 row=col;
 for(int i=1;i<=row;i++){
